@@ -15,7 +15,7 @@
 
 > Serial
 * tx:C10  rx:C11  SERIAL3  baudrate 115200
-
+* tx:A9  rx:A10  SERIAL1
 
 ## 回路図
 ![alt text](image/MDD1.png)

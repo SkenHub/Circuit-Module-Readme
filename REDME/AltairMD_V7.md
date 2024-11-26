@@ -90,20 +90,4 @@ Hが入力されるとハイサイド、Lが入力されるとローサイドが
 | H   | L   | L   | L   | H   | H   | H    | L    | 
 | H   | H   | H   | H   | H   | H   | L    | L    | 
 
-# 正回転
 
-![bg right:60% width:500px](image/1_files/4f8aed0cbb3d233e4912fb6e8aac236a.png)
-
-[Hatena Electronics](https://practicalelectronicsblog.com/hbridge/)
-
-# 逆回転
-![bg right:60% width:500px](image/1_files/165cf2e3f7085f0288b2cf0e68efcce5.png)
-
-[Hatena Electronics](https://practicalelectronicsblog.com/hbridge/)
-
-# ブレーキ
-![bg right:60% width:500px](image/1_files/498ec3ddbcb9075836d5a820f88e3163.png)
-
-[Hatena Electronics](https://practicalelectronicsblog.com/hbridge/)
-
-https://practicalelectronicsblog.com/hbridge/  より

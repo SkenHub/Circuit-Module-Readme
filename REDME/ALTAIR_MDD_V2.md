@@ -1,6 +1,9 @@
 # ALTAIR_MDD_V2
 [ALTAIR_MDD_V2](https://github.com/Altairu/ALTAIR_MDD_V2)
 
+![image](https://github.com/user-attachments/assets/8f2e0aaf-9ab4-401e-84b1-836afa1ff9af)
+
+
 > encoder
  * A0 A1 TIMER5
  * B3 A5 TIMER2

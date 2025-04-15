@@ -2,11 +2,11 @@
 
 # 回路図
 
-![alt text](sch.png)
+![alt text](ethernet_can_1.png)
 
 # 配線図
 
-![alt text](image.png)
+![alt text](ethernet_can_2.png)
 
 # 設計データ
 

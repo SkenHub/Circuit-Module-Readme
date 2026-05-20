@@ -1,5 +1,5 @@
 # Circuit-Module-Readme
-回路モジュールのreadme置き場
+旧回路モジュールのreadme置き場
 
 * AltairMD_V7:モタドラ
 * ALTAIR_MDD_V2 :エンコーダー４　モータ４
